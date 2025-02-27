@@ -36,11 +36,6 @@ And that's it—NavBot is ready to guide you through TF2!
 5. Finally, run `MakeNavs.bat` to generate nav meshes for all supported maps.
 
  ## Issues 
-
 The lua starts to lag massively upon joining a different map/match 
 Keeps memory leaking massively 
 
----
-
-### License
-This project is open-source and free to use.
